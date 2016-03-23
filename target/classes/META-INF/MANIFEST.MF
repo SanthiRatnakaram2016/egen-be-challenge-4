@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: gs-spring-boot
+Implementation-Title: egen-be-challenge
 Implementation-Version: 0.1.0
 Built-By: Santhi
 Implementation-Vendor-Id: org.springframework
